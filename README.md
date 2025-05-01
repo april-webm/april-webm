@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring quant from Australia. <br>Currently studying Computer Science and Economics at UQ.<br>Bayesian statistics enthusiast.<br>Starting a project on PRNG in the winter.
+I'm an aspiring quant from Australia. <br>Currently studying Computer Science and Economics at UQ.<br>Bayesian statistics enthusiast.<br>Currently working on an ASCII based CLI volatitility visualiser.
 
 
 ## 🌐 Socials:
