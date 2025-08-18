@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring quant from Australia. <br>Currently studying Computer Science and Economics at UQ.<br>Bayesian statistics enthusiast.<br>Currently working on pathfinding and object detection at UQ Racing.
+Hi! I'm April. I'm a current student majoring in Computer Science and Economics, with a strong focus on quantitative analysis and statistics. I'm learning and growing every day, so feel free to reach out if you want to chat!
 
 
 ## 🌐 Socials:
