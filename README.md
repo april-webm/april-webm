@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm April. I'm a current student majoring in Computer Science and Economics, with a strong focus on quantitative analysis and statistics. I'm learning and growing every day, so feel free to reach out if you want to chat!
+Hi! I'm April. I'm a first year student in Mathematics and Computer Science, majoring in Applied Maths and Machine Learning.
 
 
 ## 🌐 Socials:
