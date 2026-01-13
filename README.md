@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm April, a current **Applied Mathematics** and **Computer Science** undergraduate at the University of Queensland.
+I'm April, a current **Pure Mathematics** and **Computer Science** undergraduate at the University of Queensland.
 
 I aspire to be a **Quantitative Researcher**, and my experience as a Software Development Intern for QIC and Software Engineer for UQ Racing has deeply reinforced my passion for finding solutions to complex problems. 
 
