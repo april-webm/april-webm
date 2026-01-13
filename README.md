@@ -5,5 +5,5 @@ I aspire to be a **Quantitative Researcher**, and my experience as a Software De
 
 - 🔭 **Currently**: Working as a Software Development Intern at QIC
 - 🏎️ **Previously**: Software Engineer at UQ Racing
-- 🎓 **Studying**: Applied Mathematics & Computer Science
+- 🎓 **Studying**: Pure Mathematics & Computer Science
 - 🎯 **Interests**: Quantitative Resarch, Mathematical Modeling, Statistics
