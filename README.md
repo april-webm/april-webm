@@ -3,7 +3,7 @@ I'm April, a current **Pure Mathematics** and **Computer Science** undergraduate
 
 I aspire to complete a PhD in Mathematics, and I find myself always enjoying tackling whatever difficult problems I can find.
 
-- 🔭 **Currently**: Working as a Software Development Intern at QIC
-- 🏎️ **Previously**: Software Engineer at UQ Racing
+- 🔭 **Currently**: Slightly unemployed
+- 🏎️ **Previously**: Software Development Intern @ QIC, Software Engineer @ UQ Racing
 - 🎓 **Studying**: Pure Mathematics & Computer Science
 - 🎯 **Interests**: Abstract Algebra, Statistics 
